@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionbarTop">#f48c42</color>
+    <color name="actionbar">#c65605</color>
+    <color name="generalAppColor">#fea953</color>
+
+    <color name="primary_overlay">#ffd8bc</color>
+    <color name="generalAppColor_opacity">#ccfea953</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="aluminum">#888888</color>
+    <color name="grey_a">#777777</color>
+    <color name="grey_b">#888888</color>
+    <color name="grey_c">#858585</color>
+    <color name="grey_d">#AAAAAA</color>
+    <color name="grey_e">#CCCCCC</color>
+</resources>
